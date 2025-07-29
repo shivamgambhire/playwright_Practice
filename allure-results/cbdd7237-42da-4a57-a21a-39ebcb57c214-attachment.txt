@@ -1,0 +1,5 @@
+Heading: Firefox
+Heading: Internet Explorer
+Chrome Browser details: Chrome
+Heading: Chrome
+Heading: System

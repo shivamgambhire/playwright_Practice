@@ -1,0 +1,197 @@
+# Page snapshot
+
+```yaml
+- main:
+  - article:
+    - navigation:
+      - link "Infi Logo":
+        - /url: /
+        - img "Infi Logo"
+      - navigation:
+        - list:
+          - listitem:
+            - link "Products":
+              - /url: "#"
+          - listitem:
+            - link "Applications":
+              - /url: "#"
+          - listitem:
+            - link "Design Resources":
+              - /url: "#"
+          - listitem:
+            - link "Support & Trainings":
+              - /url: "#"
+          - listitem:
+            - link "About":
+              - /url: "#"
+      - textbox "Search"
+      - navigation:
+        - list:
+          - listitem:
+            - button "navBarDropdown": 
+          - listitem: 
+          - listitem:
+            - button "loginButton": Log in to myInfineon
+    - navigation:
+      - link "Home":
+        - /url: /
+      - text: /
+      - link "Microcontroller":
+        - /url: /products/microcontroller
+      - text: / 32-bit AURIX™ TriCore™ microcontroller
+    - button "PageShare": 
+    - button "BookMaarkClick": 
+    - heading "32-bit AURIX™ TriCore™ microcontroller" [level=1]
+    - paragraph: Discover how the 32-bit AURIX™ TriCore™ MCU family is the ideal platform for a wide range of automotive and industrial applications
+    - link "View products":
+      - /url: /product-table/32-bit-tricore
+      - button "View products":  View products
+    - img "banner-image"
+    - tablist "Jump to":
+      - tab
+    - navigation:
+      - heading "Browse by category" [level=2]
+      - text: 
+      - link "goto-link":
+        - /url: /product-table/aurix-tc2xx
+        - text: 
+      - link "goto-link":
+        - /url: /products/microcontroller/32-bit-tricore/aurix-tc2xx
+        - text: 32-bit TriCore™ AURIX™ – TC2xx
+      - text: 
+      - link "goto-link":
+        - /url: /product-table/aurix-tc3xx
+        - text: 
+      - link "goto-link":
+        - /url: /products/microcontroller/32-bit-tricore/aurix-tc3xx
+        - text: 32-bit TriCore™ AURIX™ – TC3xx
+      - text: 
+      - link "goto-link":
+        - /url: /product-table/32-bit-tricore
+        - text: 
+      - link "goto-link":
+        - /url: /products/microcontroller/32-bit-tricore/aurix-tc4x
+        - text: 32-bit TriCore™ AURIX™ – TC4x
+    - heading "About" [level=2]
+    - tablist:
+      - button "01 32-bit AURIX™ TriCore™ MCU":
+        - text: "01"
+        - heading "32-bit AURIX™ TriCore™ MCU" [level=3]
+      - button "02 TriCore™ architecture":
+        - text: "02"
+        - heading "TriCore™ architecture" [level=3]
+      - button "03 Evolution of TriCore™ generations":
+        - text: "03"
+        - heading "Evolution of TriCore™ generations" [level=3]
+      - button "04 AURIX™ digital and technical documentation":
+        - text: "04"
+        - heading "AURIX™ digital and technical documentation" [level=3]
+      - button "05 Additional partner information":
+        - text: "05"
+        - heading "Additional partner information" [level=3]
+      - button "06 Software support":
+        - text: "06"
+        - heading "Software support" [level=3]
+    - heading "Documents" [level=3]
+    - navigation:
+      - heading "Design resources" [level=2]
+      - text:  Boards & designs
+      - paragraph: Explore our cutting-edge boards & designs
+      - link "Explore more":
+        - /url: /design-resources/finder-selection-tools/evaluation-board
+      - text:  Development tools
+      - paragraph: Shorten design-in time with our development tools
+      - link "Get started":
+        - /url: https://softwaretools.infineon.com/tools?q=microcontroller
+      - text:  Embedded software
+      - paragraph: Re-use of our embedded software libraries to get started
+      - link "Learn more":
+        - /url: https://softwaretools.infineon.com/software
+      - text:  Community
+      - paragraph: Join our empowering community
+      - link "Get the details":
+        - /url: https://community.infineon.com/t5/AURIX/bd-p/AURIX/page/1
+    - navigation:
+      - img "Infineon Logo"
+      - list:
+        - listitem:
+          - paragraph: About Us
+        - listitem:
+          - link "Company":
+            - /url: /about/company
+        - listitem:
+          - link "Contact us":
+            - /url: /contact-us
+        - listitem:
+          - link "Events":
+            - /url: /about/events
+        - listitem:
+          - link "Press":
+            - /url: /about/press
+        - listitem:
+          - link "Investor":
+            - /url: /about/investor
+      - list:
+        - listitem:
+          - paragraph: Quicklinks
+        - listitem:
+          - link "Community":
+            - /url: https://community.infineon.com/
+        - listitem:
+          - link "Support":
+            - /url: /support
+        - listitem:
+          - link "Where to buy":
+            - /url: /contact-us/where-to-buy
+        - listitem:
+          - link "Quality":
+            - /url: /quality
+      - list:
+        - listitem:
+          - paragraph: MyInfineon
+        - listitem:
+          - link "Benefits":
+            - /url: /benefits
+        - listitem:
+          - link "Profile center":
+            - /url: /login/dashboard/profile
+        - listitem:
+          - link "Register":
+            - /url: /content/ifx/en/login.login.en.json?originURL=/content/ifx/en/login/dashboard.html&action=rg_rg
+      - list:
+        - listitem:
+          - paragraph: Careers
+        - listitem:
+          - link "Overview":
+            - /url: /careers
+        - listitem:
+          - link "Job Search":
+            - /url: https://jobs.infineon.com/careers
+        - listitem:
+          - link "Teams":
+            - /url: /careers/teams
+        - listitem:
+          - link "How to apply":
+            - /url: /careers/how-to-apply
+    - navigation:
+      - list:
+        - listitem:
+          - link "Terms of use":
+            - /url: /legal/usage-terms
+        - listitem:
+          - link "Imprint":
+            - /url: /legal/imprint
+        - listitem:
+          - link "Privacy Policy":
+            - /url: /legal/privacy-policy
+        - listitem: Cookies
+      - text: © 1999- Infineon Technologies AG
+      - list
+    - list:
+      - listitem
+      - listitem
+      - listitem
+      - listitem:
+        - link "":
+          - /url: https://www.facebook.com/Infineon
+```
