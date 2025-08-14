@@ -28,7 +28,7 @@ test.describe.only('Dyanic Tables', () => {
             //await console.log(tableHeading)
         })
 
-        test.only('get Chrome Browser details', async({page}) => {
+        test.only('get Chrome Browser details from dyanamic table', async({page}) => {
 
             await page.goto('https://practice.expandtesting.com/dynamic-table')
 
