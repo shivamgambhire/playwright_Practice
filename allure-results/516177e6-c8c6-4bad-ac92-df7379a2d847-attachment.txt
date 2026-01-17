@@ -1,0 +1,2 @@
+Chrome Browser details: Chrome index: 1
+Row Details: Chrome,0.4 MB/s,1.2 Mbps,8.8%,83.3 MB

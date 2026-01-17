@@ -1,0 +1,5 @@
+Heading: Name
+Heading: Disk
+Heading: Memory
+Heading: Network
+Heading: CPU

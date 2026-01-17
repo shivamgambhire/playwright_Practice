@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- paragraph:
+  - link "TestifyStack":
+    - /url: https://testifystack.com/
+  - text: "| Email, SMS, OTP and Webhooks Testing Stack for QA & Dev"
+  - link "Software testing tools":
+    - img
+    - text: Software testing tools
+- banner:
+  - navigation "Main navigation":
+    - link "SUT":
+      - /url: /
+      - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman."'
+      - text: Practice
+    - list:
+      - listitem:
+        - button "Demos"
+      - listitem:
+        - link "Tools":
+          - /url: /#tools
+      - listitem:
+        - link "Tips":
+          - /url: /tips
+      - listitem:
+        - link "Test Cases":
+          - /url: /test-cases
+      - listitem:
+        - link "API Testing":
+          - /url: /notes/api/api-docs/
+      - listitem:
+        - link "About":
+          - /url: /about
+    - list
+    - link "Free ISTQB Mock Exams":
+      - /url: https://istqb.expandtesting.com/
+- main:
+  - paragraph:
+    - text: Do you enjoy this platform? ❤️
+    - link "Buy us a coffee":
+      - /url: https://www.buymeacoffee.com/expandtesting
+  - navigation "breadcrumb mb-2":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /
+      - listitem: / Dynamic Table
+  - heading "Dynamic Table page for Automation Testing Practice" [level=1]
+  - paragraph:
+    - text: Below you see a table where columns and rows change their position upon page reload. Values in cells are random.
+    - link "Software testing tools":
+      - img
+      - text: Software testing tools
+  - heading "Scenario" [level=2]
+  - list:
+    - listitem: For Chrome process get value of CPU load.
+    - listitem: Compare it with value in the yellow label.
+  - heading "Playground" [level=2]
+  - text: Task Manager
+  - table:
+    - rowgroup:
+      - row "Name Memory Disk Network CPU":
+        - cell "Name"
+        - cell "Memory"
+        - cell "Disk"
+        - cell "Network"
+        - cell "CPU"
+    - rowgroup:
+      - row "Internet Explorer 62.1 MB 0 MB/s 4.5 Mbps 0.8%":
+        - cell "Internet Explorer"
+        - cell "62.1 MB"
+        - cell "0 MB/s"
+        - cell "4.5 Mbps"
+        - cell "0.8%"
+      - row "System 3.3 MB 0.8 MB/s 4.1 Mbps 2.7%":
+        - cell "System"
+        - cell "3.3 MB"
+        - cell "0.8 MB/s"
+        - cell "4.1 Mbps"
+        - cell "2.7%"
+      - row "Firefox Test automation courses 70.3 MB 0.1 MB/s 2 Mbps 8.4%":
+        - cell "Firefox Test automation courses":
+          - text: Firefox
+          - link "Test automation courses":
+            - img
+            - text: Test automation courses
+        - cell "70.3 MB"
+        - cell "0.1 MB/s"
+        - cell "2 Mbps"
+        - cell "8.4%"
+      - row "Chrome 89.2 MB 0.7 MB/s 5.1 Mbps 2.7%":
+        - cell "Chrome"
+        - cell "89.2 MB"
+        - cell "0.7 MB/s"
+        - cell "5.1 Mbps"
+        - cell "2.7%"
+  - paragraph: "Chrome CPU: 2.7%"
+- contentinfo:
+  - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4]
+  - paragraph:
+    - text: "Version: b7583271 | Copyright"
+    - link "Expand Testing":
+      - /url: https://expandtesting.com/
+    - text: "2025"
+- img
+- insertion:
+  - iframe
+```

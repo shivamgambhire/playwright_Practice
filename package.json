@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "playwright-yash-practice",
   "version": "1.0.0",
   "description": "playwright practice ",
@@ -11,5 +12,21 @@
   "dependencies": {
     "@playwright/test": "^1.57.0",
     "prettier": "^3.7.4"
+=======
+  "name": "playwright_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tests:table": "playwright test --config=playwright.config.ts --project=Chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.54.1",
+    "prettier": "^3.6.2"
+>>>>>>> ddc4ef33bcff73c44b9b9ff49ea0e28e18a3917c
   }
 }
