@@ -1,1 +1,0 @@
-[ 'Name', 'CPU', 'Memory', 'Disk', 'Network' ]
